@@ -1,2 +1,3 @@
-Supervised and traditional machine learning models for image classification.
-Dataset from the 2022 RSNA Cervical Spine Fracture Detection competition on Kaggle
+Trained two deep learning models (AlexNet and Densenet121) and compared their accuracy & training time to an ensemble of traditional ML algorithms (KNN and Decision Tree). This was done to determine whether the ensemble could prove to be a viable approach for automating cervical spine fracture detection. Dataset taken from the 2022 RSNA Cervical Spine Fracture Detection competition on Kaggle. 
+
+Research paper for this project: https://drive.google.com/file/d/17OGHVGk_TAHMw1l6L3-yBiT7RiJt-jyo/view?usp=sharing
